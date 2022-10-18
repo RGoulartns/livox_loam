@@ -1,0 +1,7 @@
+/**:
+    ros__parameters:
+      lidar_frame: "livox_frame"
+      odom_frame: "odom"
+      robot_base_frame: "base_link"
+      filter_parameter_corner: 0.1
+      filter_parameter_surf: 0.2
